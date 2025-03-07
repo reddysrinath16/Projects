@@ -1,5 +1,5 @@
 # Excel Sales Analytics
-## Sales Report 📄 [Atliq_Sales_Report](https://github.com/reddysrinath16/Projects/blob/main/Excel_Projects/Sales_Analytics/Atliq_Sales_Report.pdf)  :
+## [Atliq_Sales_Report](https://github.com/reddysrinath16/Projects/blob/main/Excel_Projects/Sales_Analytics/Atliq_Sales_Report.pdf)  :
 
 - **Project objective:** 
 
